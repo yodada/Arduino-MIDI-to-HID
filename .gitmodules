@@ -1,0 +1,12 @@
+[submodule "ArduinoJoystickLibrary"]
+	path = ArduinoJoystickLibrary
+	url = git@github.com:yodada/ArduinoJoystickLibrary.git
+[submodule "arduino_midi_library"]
+	path = arduino_midi_library
+	url = git@github.com:yodada/arduino_midi_library.git
+[submodule "USBH_MIDI"]
+	path = USBH_MIDI
+	url = git@github.com:yodada/USBH_MIDI.git
+[submodule "USBHost"]
+	path = USBHost
+	url = git@github.com:yodada/USBHost.git
